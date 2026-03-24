@@ -17,6 +17,8 @@ namespace it2a_spol_blind_map
             new MapPoint("Plzen", 0.18f, 0.54f)
         };
 
+
+
         private MapPoint aktivniMesto;
 
         public MainWindow()
